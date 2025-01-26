@@ -15,6 +15,7 @@
 @import "adsBanner.css";
 @import "footer.css";
 @import "color.css";
+@import "all.min.css";
 
 body{
     background-color: var(--main-background-color1) !important ;
